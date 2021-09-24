@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carly-code
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Basic research
+- 👀 I’m interested in software engineering 
+- 🌱 I’m currently learning basic research
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
