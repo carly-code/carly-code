@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @carly-code
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning basic research
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in python,studying English.
+
 
 <!---
 carly-code/carly-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
