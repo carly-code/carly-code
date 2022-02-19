@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @carly-code
-- 👀 I’m interested in python,studying English.
+Having some fun with Python.
 
 
 <!---
