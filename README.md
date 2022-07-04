@@ -1,4 +1,4 @@
-Having some fun with Python.
+Having some fun with Python,Django and Bootstrap.
 
 
 <!---
